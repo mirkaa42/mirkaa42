@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @mirkaa42
+- 👋 Hi, I’m @fujimiya.sn
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Mobile 
 developer
 - 💞️ I’m looking to collaborate on ...  
-- 📫 How to reach me @mirkaa42 tg
+- 📫 How to reach me @sinsmine tg
 
 <!---
 mirkaa42/mirkaa42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
